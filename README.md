@@ -20,5 +20,5 @@ I'm a **Diagnostic Radiology Specialist** with a passion for **Software Developm
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kenshln47&show_icons=true&theme=tokyonight)
+### 📊 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenshln47&theme=tokyonight&hide_border=true)
