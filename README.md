@@ -17,8 +17,3 @@ I'm a **Diagnostic Radiology Specialist** with a passion for **Software Developm
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
-
----
-
-### 📊 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenshln47&theme=tokyonight&hide_border=true)
