@@ -18,7 +18,7 @@
 
 ### 📈 NEURAL_ACTIVITY (SYSTEM_HEARTBEAT)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin47&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Neural Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin47&theme=tokyonight&color=00FFD5&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Neural Activity Graph" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 ### 🖥️ HARDWARE_SPECIFICATIONS
 > **Deployment Rig:** Intel Core i5-13400F | NVIDIA RTX 4060
-> **Field Interests:** Urban Techwear, Military Aesthetics, Tactical Gaming (Fortnite, Elden Ring).
+> **Field Interests:** Urban Techwear, Military Aesthetics, Tactical Gaming.
 > **Vision:** Bridging the gap between Medical Diagnostics and Generative AI.
 
 ---
