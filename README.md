@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ SYSTEM_OPERATOR: KENSHIN
-**RADIOLOGY SPECIALIST | AI ARCHITECT | FULL-STACK DEVELOPER**
+**RADIOLOGY SPECIALIST | AI ARCHITECT | DEVELOPER**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Diagnostic+Radiology+Specialist;Building+RadiantProtocol+AI;Advanced+Medical+Imaging+Solutions;Hardcore+Gamer+%26+Physics+Dev;RTX+4060+Powered+Workflow)](https://git.io/typing-svg)
 
