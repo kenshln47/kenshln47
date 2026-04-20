@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ SYSTEM_OPERATOR: KENSHIN
-**RADIOLOGY SPECIALIST | AI ARCHITECT | CGI ENTHUSIAST**
+**RADIOLOGY SPECIALIST | AI ARCHITECT | FULL-STACK DEVELOPER**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD5&center=true&vCenter=true&width=600&lines=Diagnostic+Radiology+Specialist;Building+RadiantProtocol+AI;Advanced+Medical+Imaging+Solutions;Hardcore+Gamer+%26+Physics+Dev;RTX+4060+Powered+Workflow)](https://git.io/typing-svg)
 
@@ -31,20 +31,21 @@
 
 ---
 
-### 🏗️ CORE_MODULES (ACTIVE_DEPLOYMENTS)
-
-| SYSTEM | CLASSIFICATION | TECH_STACK | STATUS |
-| :--- | :--- | :--- | :--- |
-| **RadiantProtocol AI** | 🧬 Smart Ultrasound | `Python` `AI` | 🟢 [GRADUATION_PROJECT] |
-| **PrivaDICOM** | 🔒 Data Redaction | `OpenCV` `Medical` | 🔴 [ENCRYPTED_BETA] |
-| **Translation-Bridge** | 🎮 Real-time Translator | `Grok-AI` `Node.js` | 🔵 [LIVE_VERSION] |
-| **CT-Dose-Optimizer** | ☢️ Radiation Safety | `Physics` `Python` | 🟢 [STABLE] |
+### 🎯 CURRENT_MISSIONS (FEATURED_WORK)
+<p align="center">
+  <a href="https://github.com/kenshln47/PrivaDICOM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenshln47&repo=PrivaDICOM&theme=tokyonight&hide_border=true&title_color=00FFD5" width="48%" />
+  </a>
+  <a href="https://github.com/kenshln47/kenshln47">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenshln47&repo=kenshln47&theme=tokyonight&hide_border=true&title_color=00FFD5" width="48%" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ ARSENAL (TECH_STACK)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,postgres,docker,ae,unreal,linux,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,postgres,docker,linux,git&perline=8" />
 </p>
 
 ---
@@ -61,7 +62,7 @@
 ### 🖥️ HARDWARE_SPECIFICATIONS
 > **Deployment Rig:** Intel Core i5-13400F | NVIDIA RTX 4060
 > **Field Interests:** Urban Techwear, Military Aesthetics, Tactical Gaming.
-> **Vision:** Bridging the gap between Medical Diagnostics and Generative AI.
+> **Vision:** Bridging the gap between Medical Diagnostics and Machine Learning.
 
 ---
 
