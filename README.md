@@ -55,7 +55,7 @@
 
 ### 🏆 ARCHIVE_ACHIEVEMENTS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenshin47&repo=TRANSLATION-BRIDGE&theme=tokyonight&hide_border=true" alt="Translation Bridge Project" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin47&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
