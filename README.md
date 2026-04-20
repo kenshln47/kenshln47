@@ -18,15 +18,15 @@
 
 ### 📈 NEURAL_ACTIVITY (SYSTEM_HEARTBEAT)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshin47&theme=tokyonight&color=00FFD5&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Neural Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshln47&theme=tokyonight&color=00FFD5&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Neural Activity Graph" />
 </p>
 
 ---
 
 ### 📊 ANALYTICS_DASHBOARD
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenshin47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshin47&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Langs" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kenshln47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshln47&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Langs" height="180px" />
 </p>
 
 ---
