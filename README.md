@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://i.scdn.co/image/ab6775700000ee852222604ada69e6ff29a4bd42" width="220" style="border-radius: 50%; box-shadow: 0 0 25px #FF00FF, 0 0 50px #00FFFF;" alt="Profile Picture">
-
-## BASEL 
+## BASEL
 **SENIOR MEDICAL IMAGING STUDENT | AGENTIC AI BUILDER**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF00FF;00FFFF&center=true&vCenter=true&width=600&lines=Agentic+AI+Workflows;Medical+Imaging+(PSAU);Building+RadiantProtocol+AI;Python,+React,+and+LLMs)](https://git.io/typing-svg)
