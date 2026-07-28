@@ -1,65 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0D1117,0D1117,000000&height=200&section=header&text=BASEL%20%E2%80%A2%20KENSHIN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=60&desc=AGENTIC%20AI%20ARCHITECT%20%7C%20MEDICAL%20IMAGING%20%7C%20PSAU&descAlignY=80&descSize=13&descColor=666666" width="100%"/>
-
-<br/>
-
-<a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=A9A9A9&center=true&vCenter=true&width=700&lines=Standardizing+clinical+reporting+through+autonomous+AI;Python+%E2%80%A2+React+%E2%80%A2+PostgreSQL+%E2%80%A2+DICOM;Building+RadiantProtocol+AI;Medical+Imaging+Expert+%7C+PSAU%2C+Kingdom+of+Saudi+Arabia" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-### `// SYSTEM IDENTIFICATION`
-
-<p style="color: #888888;">
-<b>NAME:</b> Basel (Kenshin) &nbsp;•&nbsp; <b>NODE:</b> Prince Sattam bin Abdulaziz University — KSA<br/>
-<b>LEVEL:</b> Senior Medical Imaging Student — Year 7 &nbsp;•&nbsp; <b>STATUS:</b> ACTIVE<br/>
-<b>DIRECTIVE:</b> Standardize clinical reporting through autonomous AI
-</p>
-
-<br/><br/>
-
-### `// CAPABILITIES & STACK`
-
-<a href="https://github.com/kenshln47">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=ffffff&labelColor=0D1117" />
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ffffff&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=0D1117" />
-</a>
-
-<br/><br/>
-
-### `// COMMAND STATION`
-
-<p style="color: #888888;">
-<b>CPU:</b> Intel Core i5-13400F &nbsp;•&nbsp; <b>GPU:</b> NVIDIA GeForce RTX 4060
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/main/light.svg">
+  <img alt="Basel Alotaibi — Agentic AI Architect, Medical Imaging, PSAU" src="https://raw.githubusercontent.com/kenshln47/kenshln47/main/light.svg">
+</picture>
 
 <br/><br/>
 
 ### `// ACTIVE DEPLOYMENTS`
 
-<a href="https://github.com/kenshln47/PrivaDICOM" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/PrivaDICOM-Privacy--focused_DICOM_medical_imaging_system-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117" />
+<a href="https://github.com/kenshln47/PrivaDICOM">
+  <img src="https://img.shields.io/badge/PrivaDICOM-Offline_DICOM_anonymization_with_AI_OCR-0B0F16?style=for-the-badge&logo=python&logoColor=E9A23B&labelColor=0B0F16" alt="PrivaDICOM" />
 </a>
-
-<br/><br/><br/>
-
-### `// SYSTEM ANALYTICS`
-
-<a href="https://github.com/kenshln47">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kenshln47&bg_color=0D1117&color=555555&line=333333&point=ffffff&area_color=111111&area=true&hide_border=false&border_color=333333&title_color=ffffff&v=5" width="95%"/>
+<br/>
+<a href="https://github.com/kenshln47/CT-Dose-Optimizer">
+  <img src="https://img.shields.io/badge/CT--Dose--Optimizer-Radiation_dose_management-0B0F16?style=for-the-badge&logo=python&logoColor=E9A23B&labelColor=0B0F16" alt="CT-Dose-Optimizer" />
+</a>
+<br/>
+<a href="https://github.com/kenshln47/Turing-Chat">
+  <img src="https://img.shields.io/badge/Turing--Chat-Local--first_AI_agent_UI_for_React-0B0F16?style=for-the-badge&logo=typescript&logoColor=22D3EE&labelColor=0B0F16" alt="Turing-Chat" />
+</a>
+<br/>
+<a href="https://github.com/kenshln47/TRANSLATION-BRIDGE">
+  <img src="https://img.shields.io/badge/TRANSLATION--BRIDGE-Real--time_translator_%C2%B7_14%2B_languages-0B0F16?style=for-the-badge&logo=python&logoColor=E9A23B&labelColor=0B0F16" alt="TRANSLATION-BRIDGE" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,000000,0D1117,0D1117&height=120&section=footer&reversal=true" width="100%"/>
+### `// SYSTEM ANALYTICS`
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=kenshln47&hide_border=true&background=0B0F16&stroke=22D3EE&ring=E9A23B&fire=E9A23B&currStreakLabel=22D3EE&sideLabels=5A6675&currStreakNum=C9D4E0&sideNums=C9D4E0&dates=5A6675&titleColor=22D3EE&card_width=1180" alt="streak" />
+
+<br/>
+
+<!-- ===================================================================
+     STATS CARDS - disabled until the self-hosted instance is deployed.
+
+     To enable: replace both YOUR-INSTANCE with your Vercel instance,
+     then delete this line and the closing arrow line below.
+     Steps are in SETUP.md. Do not point these at the public instance -
+     it rate-limits constantly and was returning 503 at build time.
+
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=kenshln47&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=E9A23B&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=kenshln47&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="top langs" />
+
+     =================================================================== -->
+
+<br/><br/>
+
+### `// CONTRIBUTION GRID`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/kenshln47/kenshln47/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
+### `// UPLINK`
+
+<a href="https://baselalotaibi.com">
+  <img src="https://img.shields.io/badge/Portfolio-0B0F16?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0B0F16" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:contact@baselalotaibi.com">
+  <img src="https://img.shields.io/badge/Email-0B0F16?style=for-the-badge&logo=gmail&logoColor=E9A23B&labelColor=0B0F16" alt="Email" />
+</a>
 
 </div>
