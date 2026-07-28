@@ -30,7 +30,7 @@
 
 ### `// SYSTEM ANALYTICS`
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=kenshln47&hide_border=true&background=0B0F16&stroke=22D3EE&ring=E9A23B&fire=E9A23B&currStreakLabel=22D3EE&sideLabels=5A6675&currStreakNum=C9D4E0&sideNums=C9D4E0&dates=5A6675&titleColor=22D3EE&card_width=1180" alt="streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=kenshln47&hide_border=true&background=0B0F16&stroke=22D3EE&ring=E9A23B&fire=E9A23B&currStreakLabel=22D3EE&sideLabels=5A6675&currStreakNum=C9D4E0&sideNums=C9D4E0&dates=5A6675&titleColor=22D3EE&card_width=1180&cb=2" alt="streak" />
 
 <br/>
 
@@ -61,10 +61,6 @@
 
 ### `// UPLINK`
 
-<a href="https://baselalotaibi.com">
-  <img src="https://img.shields.io/badge/Portfolio-0B0F16?style=for-the-badge&logo=googlechrome&logoColor=22D3EE&labelColor=0B0F16" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;
 <a href="mailto:contact@baselalotaibi.com">
   <img src="https://img.shields.io/badge/Email-0B0F16?style=for-the-badge&logo=gmail&logoColor=E9A23B&labelColor=0B0F16" alt="Email" />
 </a>
