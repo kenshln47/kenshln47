@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/main/light.svg">
-  <img alt="Basel Alotaibi — Agentic AI Architect, Medical Imaging, PSAU" src="https://raw.githubusercontent.com/kenshln47/kenshln47/main/light.svg">
+  <img alt="Basel Alotaibi - Agentic AI Architect, Medical Imaging, PSAU" src="https://raw.githubusercontent.com/kenshln47/kenshln47/main/light.svg">
 </picture>
 
 <br/><br/>
@@ -19,7 +19,7 @@
 </a>
 <br/>
 <a href="https://github.com/kenshln47/Turing-Chat">
-  <img src="https://img.shields.io/badge/Turing--Chat-Local--first_AI_agent_UI_for_React-0B0F16?style=for-the-badge&logo=typescript&logoColor=22D3EE&labelColor=0B0F16" alt="Turing-Chat" />
+  <img src="https://img.shields.io/badge/Turing--Chat-Local--first_AI_agent_UI_for_React-0B0F16?style=for-the-badge&logo=typescript&logoColor=8FA9CE&labelColor=0B0F16" alt="Turing-Chat" />
 </a>
 <br/>
 <a href="https://github.com/kenshln47/TRANSLATION-BRIDGE">
@@ -30,12 +30,12 @@
 
 ### `// SYSTEM ANALYTICS`
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=kenshln47&hide_border=true&background=0B0F16&stroke=22D3EE&ring=E9A23B&fire=E9A23B&currStreakLabel=22D3EE&sideLabels=5A6675&currStreakNum=C9D4E0&sideNums=C9D4E0&dates=5A6675&titleColor=22D3EE&card_width=1180&cb=2" alt="streak" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=kenshln47&hide_border=true&background=0B0F16&stroke=8FA9CE&ring=E9A23B&fire=E9A23B&currStreakLabel=8FA9CE&sideLabels=5A6675&currStreakNum=C9D4E0&sideNums=C9D4E0&dates=5A6675&titleColor=8FA9CE&card_width=1180&cb=2" alt="streak" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats-one-plum-74.vercel.app/api?username=kenshln47&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=E9A23B&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-one-plum-74.vercel.app/api/top-langs/?username=kenshln47&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-readme-stats-one-plum-74.vercel.app/api?username=kenshln47&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=8FA9CE&icon_color=E9A23B&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-one-plum-74.vercel.app/api/top-langs/?username=kenshln47&layout=compact&langs_count=8&hide_border=true&title_color=8FA9CE&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="top langs" />
 
 <br/><br/>
 
