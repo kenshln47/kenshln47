@@ -34,18 +34,8 @@
 
 <br/>
 
-<!-- ===================================================================
-     STATS CARDS - disabled until the self-hosted instance is deployed.
-
-     To enable: replace both YOUR-INSTANCE with your Vercel instance,
-     then delete this line and the closing arrow line below.
-     Steps are in SETUP.md. Do not point these at the public instance -
-     it rate-limits constantly and was returning 503 at build time.
-
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=kenshln47&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=E9A23B&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=kenshln47&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="top langs" />
-
-     =================================================================== -->
+<img width="49%" src="https://github-readme-stats-one-plum-74.vercel.app/api?username=kenshln47&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=E9A23B&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats-one-plum-74.vercel.app/api/top-langs/?username=kenshln47&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="top langs" />
 
 <br/><br/>
 
