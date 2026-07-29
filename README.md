@@ -3,56 +3,53 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/main/light.svg">
-  <img alt="Basel Alotaibi - Agentic AI Architect, Medical Imaging, PSAU" src="https://raw.githubusercontent.com/kenshln47/kenshln47/main/light.svg">
+  <img alt="Basel Alotaibi - Medical Imaging and AI, PSAU Riyadh" src="https://raw.githubusercontent.com/kenshln47/kenshln47/main/light.svg">
 </picture>
-
-<br/><br/>
-
-### `// ACTIVE DEPLOYMENTS`
-
-<a href="https://github.com/kenshln47/PrivaDICOM">
-  <img src="https://img.shields.io/badge/PrivaDICOM-Offline_DICOM_anonymization_with_AI_OCR-0B0F16?style=for-the-badge&logo=python&logoColor=E9A23B&labelColor=0B0F16" alt="PrivaDICOM" />
-</a>
-<br/>
-<a href="https://github.com/kenshln47/CT-Dose-Optimizer">
-  <img src="https://img.shields.io/badge/CT--Dose--Optimizer-Radiation_dose_management-0B0F16?style=for-the-badge&logo=python&logoColor=E9A23B&labelColor=0B0F16" alt="CT-Dose-Optimizer" />
-</a>
-<br/>
-<a href="https://github.com/kenshln47/Turing-Chat">
-  <img src="https://img.shields.io/badge/Turing--Chat-Local--first_AI_agent_UI_for_React-0B0F16?style=for-the-badge&logo=typescript&logoColor=8FA9CE&labelColor=0B0F16" alt="Turing-Chat" />
-</a>
-<br/>
-<a href="https://github.com/kenshln47/TRANSLATION-BRIDGE">
-  <img src="https://img.shields.io/badge/TRANSLATION--BRIDGE-Real--time_translator_%C2%B7_14%2B_languages-0B0F16?style=for-the-badge&logo=python&logoColor=E9A23B&labelColor=0B0F16" alt="TRANSLATION-BRIDGE" />
-</a>
-
-<br/><br/>
-
-### `// SYSTEM ANALYTICS`
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=kenshln47&hide_border=true&background=0B0F16&stroke=8FA9CE&ring=E9A23B&fire=E9A23B&currStreakLabel=8FA9CE&sideLabels=5A6675&currStreakNum=C9D4E0&sideNums=C9D4E0&dates=5A6675&titleColor=8FA9CE&card_width=1180&cb=2" alt="streak" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats-one-plum-74.vercel.app/api?username=kenshln47&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=8FA9CE&icon_color=E9A23B&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats-one-plum-74.vercel.app/api/top-langs/?username=kenshln47&layout=compact&langs_count=8&hide_border=true&title_color=8FA9CE&text_color=94A3B8&bg_color=0B0F16&card_width=500" alt="top langs" />
-
-<br/><br/>
-
-### `// CONTRIBUTION GRID`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kenshln47/kenshln47/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/kenshln47/kenshln47/output/github-snake.svg" />
-</picture>
-
-<br/><br/>
-
-### `// UPLINK`
-
-<a href="mailto:contact@baselalotaibi.com">
-  <img src="https://img.shields.io/badge/Email-0B0F16?style=for-the-badge&logo=gmail&logoColor=E9A23B&labelColor=0B0F16" alt="Email" />
-</a>
 
 </div>
+
+<br>
+
+Senior medical imaging student at Prince Sattam University, Riyadh. I build the
+tooling I keep wishing existed on the other side of the console — where
+radiology workflow runs into software that is expensive, cloud-dependent, or
+both. Neither of those works when the data is patient scans.
+
+<br>
+
+### Projects
+
+**[PrivaDICOM](https://github.com/kenshln47/PrivaDICOM)** — Offline DICOM
+de-identification. Scrubs 70 metadata tags from the PS3.15 Annex E
+confidentiality profile, removes vendor private tags, and covers text burned
+into the pixels using OCR in Arabic and English. Files never leave the machine.
+Ships with a C-STORE listener so a modality can push straight to it, and a PDF
+audit trail. The README documents what it does *not* handle, which on a privacy
+tool matters more than the feature list.
+<br>`Python · pydicom · EasyOCR · PyQt6 · OpenCV`
+
+**[Turing-Chat](https://github.com/kenshln47/Turing-Chat)** — Your local models,
+compared on your prompts and your hardware. Sends one prompt to every model you
+select, shows the answers side by side under shuffled labels, and turns your
+blind picks into a persistent Elo leaderboard. Public benchmarks cannot tell you
+which model is best for *your* work; this can. 229 tests, alpha, and honest
+about its gaps.
+<br>`TypeScript · React · Next.js · Turborepo · Ollama`
+
+**[TRANSLATION-BRIDGE](https://github.com/kenshln47/TRANSLATION-BRIDGE)** —
+Real-time translation for in-game chat. Type in your language, it sends in
+theirs, 14+ languages, no perceptible lag. Packaged as a single Windows
+executable, with CI that audits dependencies and fails the build if the release
+size regresses.
+<br>`Python · CustomTkinter · OpenRouter`
+
+**[CT-Dose-Optimizer](https://github.com/kenshln47/CT-Dose-Optimizer)** —
+Radiation dose management for CT protocols, with the physics kept separate from
+the UI so it can be checked on its own.
+<br>`Python · NumPy`
+
+<br>
+
+### Elsewhere
+
+[contact@baselalotaibi.com](mailto:contact@baselalotaibi.com)
